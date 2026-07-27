@@ -2,6 +2,7 @@
 
 Sistema de gestión de incidencias técnicas construido con **Angular 20** como
 parte de un reto formativo incremental de 30 días para desarrolladores junior.
+chore(project):initialize Angular incident management application
 
 ## Tecnología principal
 
